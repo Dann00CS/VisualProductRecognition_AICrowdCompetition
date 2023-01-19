@@ -1,0 +1,5 @@
+public_dataset
+MCS2023_baseline/submission_result.npy
+MCS2023_baseline/experiments/baseline_mcs/baseline_model.pth
+evaluator_outputs
+__pycache__

@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+MCS2023_baseline/.git/objects/3a/5a23168fc2fcbb2c9fea82dd93f9cd1dc654c7 filter=lfs diff=lfs merge=lfs -text
+MCS2023_baseline/.git/objects/b0/9d6508caf6362ac9d62f6c11f349468fe8d899 filter=lfs diff=lfs merge=lfs -text
+MCS2023_baseline/experiments/baseline_mcs/baseline_model.pth filter=lfs diff=lfs merge=lfs -text
+MCS2023_baseline/submission_result.npy filter=lfs diff=lfs merge=lfs -text

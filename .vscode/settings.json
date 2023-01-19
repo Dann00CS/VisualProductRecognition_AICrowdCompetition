@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\DannW\\Anaconda3\\envs\\visual_product_competition_env\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "termina.integrated.shell.windows": "C;\\Winwdos\\System32\\cmd.exe"
+}
